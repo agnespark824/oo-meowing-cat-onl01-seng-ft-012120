@@ -3,7 +3,7 @@ class Cat
   
   def meow
     if :name
-      puts "meow"
+      puts "meow!"
     end
   end
 end
