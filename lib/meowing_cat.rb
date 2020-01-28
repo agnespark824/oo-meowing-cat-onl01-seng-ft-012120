@@ -2,7 +2,7 @@ class Cat
   attr_accessor :name
   
   def meow
-    if attr_accessor :name
+    if :name
       puts "meow"
     end
   end
